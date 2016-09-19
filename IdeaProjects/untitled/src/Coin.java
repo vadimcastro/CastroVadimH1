@@ -1,10 +1,5 @@
-/**
- * Created by vadimcastro on 9/15/16.
- */
-
-
 // Vadim Castro
-// Coin class
+// Coin class --> subclass of Item
 
 public class Coin extends Item {
     private String name;

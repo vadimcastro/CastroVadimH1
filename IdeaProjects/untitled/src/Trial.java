@@ -1,5 +1,5 @@
 // Vadim Castro
-// Trial Class
+// Trial Class: tests all subclasses and respective methods 
 
 import javax.swing.JOptionPane;
 

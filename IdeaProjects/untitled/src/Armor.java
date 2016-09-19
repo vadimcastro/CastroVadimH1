@@ -1,9 +1,5 @@
-/**
- * Created by vadimcastro on 9/15/16.
- */
-
 // Vadim Castro
-// Armor class
+// Armor class --> subclass of Item
 
 public class Armor extends Item {
     private String name;

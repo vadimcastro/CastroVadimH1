@@ -1,9 +1,5 @@
-/**
- * Created by vadimcastro on 9/15/16.
- */
-
 //Vadim Castro
-// Weapon class
+// Weapon class --> sublass of Item
 
 public class Weapon extends Item {
     private String name ;

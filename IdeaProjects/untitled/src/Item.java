@@ -1,7 +1,3 @@
-/**
- * Created by vadimcastro on 9/15/16.
- */
-
 // Vadim Castro
 // Item superclass
 

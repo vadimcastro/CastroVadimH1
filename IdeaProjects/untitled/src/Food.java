@@ -1,9 +1,5 @@
-/**
- * Created by vadimcastro on 9/15/16.
- */
-
 //Vadim Castro
-// Food Class
+// Food Class --> sub class of Item
 
 public class Food extends Item {
     private String name;

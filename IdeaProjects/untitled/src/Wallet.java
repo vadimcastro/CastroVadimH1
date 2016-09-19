@@ -1,10 +1,5 @@
-/**
- * Created by vadimcastro on 9/15/16.
- */
-
-
 // Vadim Castro
-// Wallet class
+// Wallet class --> subclass of Item
 
 public class Wallet extends Item {
     private String name;
